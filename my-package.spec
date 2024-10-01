@@ -1,5 +1,5 @@
 Name:           my-python-package
-Version:        v0.1.0
+Version:        0.1.0
 Release:        1%{?dist}
 Summary:        A sample Python package
 
