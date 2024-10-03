@@ -4,7 +4,7 @@ Release:        1%{?dist}
 Summary:        A sample Python package
 
 License:        MIT
-Source0:        sample_packit-v0.1.0.tar.gz
+Source0:        sample_packit-0.1.0.tar.gz
 
 BuildArch:      noarch
 BuildRequires:  python3-devel
